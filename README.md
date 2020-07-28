@@ -9,9 +9,9 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/akshaygundewar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:g.akshayp@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/g_akshay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akshaygundewar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:g.akshayp@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/g_akshay" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align='left'> 
@@ -36,6 +36,6 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <p align='left'>
 <h4>💬 Sometimes I like to write things here...</h4>
-  <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 </div>
