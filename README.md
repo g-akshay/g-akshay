@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I am Akshay 💻</h1>
+<h1 align='center'> Hi 👋, I am Akshay 👨‍💻</h1>
 
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
