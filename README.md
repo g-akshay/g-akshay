@@ -15,9 +15,8 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 <div align='left'> 
-<h4> 🔭 I’m currently working with ...</h4>
+<h4> 🔭 I’m currently working with:</h4>
 
-<h5> Frontend</h5>
 <p align='left'>
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;  
@@ -28,7 +27,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h4>🌱 I'm currently learning...</h4>
+<h4>🌱 I'm currently learning:</h4>
 <p align='left'>
   <img src="https://img.shields.io/badge/flutter%20-%234d97ff.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
