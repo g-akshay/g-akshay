@@ -14,8 +14,6 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <a href="https://twitter.com/g_akshay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
 <div align='left'> 
 <h4> 🔭 I’m currently working with ...</h4>
 
@@ -29,8 +27,6 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
 </p>
-
-<hr>
 
 <h4>🌱 I'm currently learning...</h4>
 <p align='left'>
