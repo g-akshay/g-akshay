@@ -16,7 +16,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <hr>
 
-<div align='right'> 
+<div align='left'> 
 <h4> 🔭 I’m currently working with ...</h4>
 
 <h5> Frontend</h5>
@@ -38,7 +38,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<p align='right'>
+<p align='left'>
 <h4>💬 Sometimes I like to write things here...</h4>
   <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
