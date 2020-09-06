@@ -12,9 +12,9 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <br/>
 
-<div align='left'>
+<div align='center'>
 <h4> 🔭 My Tech Stack</h4>
-<p align='left'>
+<p align='center'>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
   <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
@@ -29,28 +29,20 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 <br/>
+
 <h4>🌱 I'm currently learning</h4>
 
-<p align='left'>
+<p align='center'>
   <img src="https://img.shields.io/badge/flutter%20-%234d97ff.svg?&style=flat-squar&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=flat-squar&logo=dart&logoColor=white" />
 </p>
 
 <br/>
-<p align='left'>
-<h4>🖊 Sometimes I like to write things
-<ul>
-    <li>
-    <a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">Javascript Console — Debug like a Pro !!!</a>
-    </li>
-    <li>
-    <a href="https://medium.com/the-sixt-india-blog/functional-ish-programming-here-i-come-part-1-7f209148ff4b">Functional-ish Programming</a>
-    </li>
-    <li>
-    <a href="https://medium.com/the-sixt-india-blog/closures-the-building-blocks-of-modern-javascript-14f09f1b420">Closures</a>
-    </li>
-</ul>
-</h4>
+<p align='center'>
+<h4>🖊 Sometimes I like to write things</h4>
+    <a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">Javascript Console — Debug like a Pro !!!</a><br/>
+    <a href="https://medium.com/the-sixt-india-blog/functional-ish-programming-here-i-come-part-1-7f209148ff4b">Functional-ish Programming</a><br/>
+    <a href="https://medium.com/the-sixt-india-blog/closures-the-building-blocks-of-modern-javascript-14f09f1b420">Closures</a><br/>
 </p>
 
 </div>
