@@ -18,28 +18,28 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <div align='left'>
 <h4> 🔭 My Tech Stack</h4>
 <p align='left'>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=flat-squar&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=flat-squar&logo=jquery&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=flat-squar&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=flat-squar&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack" />
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
 
 <h4>🌱 I'm currently learning</h4>
 
 <p align='left'>
-  <img src="https://img.shields.io/badge/flutter%20-%234d97ff.svg?&style=flat-squar&logo=flutter&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=flat-squar&logo=dart&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flutter%20-%234d97ff.svg?&style=flat-squar&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=flat-squar&logo=dart&logoColor=white" />
 </p>
 
 <p align='left'>
-<h4>🖊 Sometimes I like to write things &nbsp;&nbsp;&nbsp;
+<h4>🖊 Sometimes I like to write things
 <ul>
     <li>
     <a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">Javascript Console — Debug like a Pro !!!</a>
