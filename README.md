@@ -31,16 +31,12 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />&nbsp;&nbsp;
 </p>
 
-<br/>
-
 <h4>🌱 I'm currently learning</h4>
 
 <p align='left'>
   <img src="https://img.shields.io/badge/flutter%20-%234d97ff.svg?&style=flat-squar&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/dart%20-%230769ad.svg?&style=flat-squar&logo=dart&logoColor=white" />&nbsp;&nbsp;
 </p>
-
-<br/>
 
 <p align='left'>
 <h4>🖊 Sometimes I like to write things &nbsp;&nbsp;&nbsp;
