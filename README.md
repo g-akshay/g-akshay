@@ -2,7 +2,7 @@
 <h1 align='center'> Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Akshay 👨‍💻</h1>
 
 <p align='center'>
- <img src="./coder.gif" alt="Coder GIF" width="500" height="400">
+ <img src="./coder.webp" alt="Coder GIF" width="500" height="400">
 </p>
 
 
