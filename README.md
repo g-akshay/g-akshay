@@ -11,10 +11,6 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <br/>
 
-<hr />
-
-<br/>
-
 <div align='left'>
 <h4> 🔭 My Tech Stack</h4>
 <p align='left'>
@@ -55,7 +51,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 </div>
-<hr />
+<br/>
 
 [![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
