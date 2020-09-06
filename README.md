@@ -59,9 +59,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 </div>
-<br/>
 <hr />
-<br/>
 
 [![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
