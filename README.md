@@ -1,29 +1,29 @@
+<samp>
 <h1 align='center'> Hi 👋, I am Akshay 👨‍💻</h1>
 
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
 <p align='center'>
 I am a frontend engineer and have worked mostly on Single page applications out of which almost all of them starting off as a greenfield project and a few of them by working alone. Building something from the ground up is my strength. I've been always on top of the libraries, frameworks and patterns that we choose for a given task/project and so I try to remain up to date about any buzz in Front-end world.
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/akshaygundewar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:g.akshayp@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/g_akshay" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<br/>
+
+<hr />
+
+<br/>
 
 <div align='left'>
 <h4> 🔭 My Tech Stack</h4>
 <p align='left'>
-  <img src="https://img.shields.io/badge/javascript%20-%23f0db4f.svg?&style=flat-squar&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=flat-squar&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=flat-squar&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=flat-squar&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=flat-squar&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-squar&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=flat-squar&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=flat-squar&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />&nbsp;&nbsp;
@@ -54,7 +54,9 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </a>
 </h4>
 </p>
+
 </div>
+<br/>
 <hr />
 <br/>
 
@@ -66,4 +68,31 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <br/>
 
+<p align="center">
+<a href="https://twitter.com/g_akshay" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="g_akshay" height="20" width="20" />
+</a>
+<a href="https://linkedin.com/in/akshaygundewar" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akshaygundewar" height="20" width="20" />
+</a>
+<a href="mailto:g.akshayp@gmail.com?subject=Hi%20Akshay">
+  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+</a>
+<a href="https://medium.com/@g_akshay" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="g_akshay" height="20" width="20" />
+</a>
+<a href="https://stackoverflow.com/users/2520254/akshay-gundewar" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akshay-gundewar" height="20" width="20" />
+</a>
+<a href="https://www.buymeacoffee.com/g1MV0sQmH">
+  <img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+</a>
+
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<br/>
+<br/>
+<br/>
+</samp>
