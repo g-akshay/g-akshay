@@ -15,7 +15,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <div align='center'>
 <h4> 🔭 My Tech Stack</h4>
 <p align='center'>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23FFCE5A&color=%23FFCE5A" />
   <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=flat-squar&logo=node.js&logoColor=white" />
