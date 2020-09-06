@@ -55,7 +55,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-akshay&show_icons=true&theme=dracula&layout=compact">
 </p>
  
 <br/>
