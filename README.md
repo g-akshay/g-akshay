@@ -45,13 +45,16 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <p align='left'>
 <h4>🖊 Sometimes I like to write things &nbsp;&nbsp;&nbsp;
 <ul>
-    <li><a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">Javascript Console — Debug like a Pro !!!</a></li>
-    <li><a href="https://medium.com/the-sixt-india-blog/functional-ish-programming-here-i-come-part-1-7f209148ff4b">Functional-ish Programming</a></li>
-    <li><a href="https://medium.com/the-sixt-india-blog/closures-the-building-blocks-of-modern-javascript-14f09f1b420">Closures</a></li>
+    <li>
+    <a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">Javascript Console — Debug like a Pro !!!</a>
+    </li>
+    <li>
+    <a href="https://medium.com/the-sixt-india-blog/functional-ish-programming-here-i-come-part-1-7f209148ff4b">Functional-ish Programming</a>
+    </li>
+    <li>
+    <a href="https://medium.com/the-sixt-india-blog/closures-the-building-blocks-of-modern-javascript-14f09f1b420">Closures</a>
+    </li>
 </ul>
-<a href="https://medium.com/@g_akshay">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
-</a>
 </h4>
 </p>
 
@@ -66,6 +69,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 <br/>
 
 <p align="center">
@@ -90,9 +94,10 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 </p>
 
+<br/>
+<br/>
+<br/>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<br/>
-<br/>
-<br/>
 </samp>
