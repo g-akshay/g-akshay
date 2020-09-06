@@ -84,8 +84,6 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </p>
 
 <br/>
-<br/>
-<br/>
 
 <p align="center">
   <img align="center" alt="Visitos" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
