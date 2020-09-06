@@ -58,6 +58,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+<br/>
 
 <p align="center">
 <a href="https://twitter.com/g_akshay" target="_blank">
