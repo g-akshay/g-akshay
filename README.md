@@ -1,5 +1,7 @@
 <h1 align='center'> Hi 👋, I am Akshay 👨‍💻</h1>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
 </p>
@@ -41,4 +43,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
