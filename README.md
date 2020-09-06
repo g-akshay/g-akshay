@@ -37,8 +37,10 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <br/>
 
 <p align='left'>
-<h4>💬 Sometimes I like to write 🖊 things here</h4>
-  <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;
+  <h4>💬 Sometimes I like to write 🖊 things on 
+    <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a> &nbsp;&nbsp;&nbsp;
+  </h4>
+  
 </p>
 </div>
 <hr />
