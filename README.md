@@ -53,10 +53,11 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 </div>
 <br/>
 
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-akshay&show_icons=true&theme=dracula&layout=compact">
+</p>
+ 
 <br/>
 <br/>
 
