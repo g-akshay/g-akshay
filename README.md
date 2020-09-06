@@ -41,7 +41,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
   <a href="https://medium.com/@g_akshay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 </div>
-
+<hr />
 <br/>
 
 [![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=g-akshay&theme=dracula&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
