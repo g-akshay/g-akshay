@@ -2,8 +2,9 @@
 <h1 align='center'> Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Akshay 👨‍💻</h1>
 
 <p align='center'>
- <img src="./coder.png" alt="Coder GIF" width="500" height="400">
+ <img src="./coder.gif" alt="Coder GIF" width="500" height="400">
 </p>
+
 
 <p align='center'>
 I am a frontend engineer and have worked mostly on Single page applications out of which almost all of them starting off as a greenfield project and a few of them by working alone. Building something from the ground up is my strength. I've been always on top of the libraries, frameworks and patterns that we choose for a given task/project and so I try to remain up to date about any buzz in Front-end world.
