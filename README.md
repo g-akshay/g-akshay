@@ -1,5 +1,5 @@
 <samp>
-<h1 align='center'> Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Akshay 👨‍💻</h1>
+<h1 align='center'> Hi 👋, I am Akshay 👨‍💻</h1>
 
 <p align='center'>
  <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder" width="500" height="400">
