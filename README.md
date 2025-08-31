@@ -40,9 +40,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <br/>
 <p align='center'>
 <h4>🖊 Sometimes I like to write things</h4>
-    <a href="https://medium.com/the-sixt-india-blog/js-console-api-f62db2bbadad">JS Console — Debug like a Pro</a><br/>
-    <a href="https://medium.com/the-sixt-india-blog/functional-ish-programming-here-i-come-part-1-7f209148ff4b">Functional-ish Programming</a><br/>
-    <a href="https://medium.com/the-sixt-india-blog/closures-the-building-blocks-of-modern-javascript-14f09f1b420">Closures</a><br/>
+    <a href="https://medium.com/patient-programming">Check out here...</a><br/>
 </p>
 
 </div>
