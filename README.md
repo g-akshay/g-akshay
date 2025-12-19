@@ -64,7 +64,7 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 <a href="https://linkedin.com/in/akshaygundewar" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akshaygundewar" height="20" width="20" />
 </a>
-<a href="mailto:g.akshayp@gmail.com?subject=Hi%20Akshay">
+<a href="mailto:g.akshayapps@gmail.com?subject=Hi%20Akshay">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
 </a>
 <a href="https://medium.com/@g_akshay" target="_blank">
