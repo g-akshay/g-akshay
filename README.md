@@ -30,8 +30,18 @@ I am a frontend engineer and have worked mostly on Single page applications out 
 
 <br/>
 
-<h4>🌱 I'm currently learning</h4>
+<h4> 🤖 AI & Agentic Development</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-orange?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-Adaptive_UX-blueviolet?style=flat-square&logo=aiq&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Implementation-Data_Retrieval-green?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-LangChain/Vercel_AI-black?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Optimization-yellow?style=flat-square&logo=openai&logoColor=black" />
+</p>
 
+<br/>
+
+<h4>🌱 I'm currently learning</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
